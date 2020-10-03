@@ -1,4 +1,4 @@
-# AdmitKard_Assingment
+# AdmitKard_Assignment
 ## Problem statement 1 : signup functinality test case
 #### Test case are written by considering given sample design 
 #### upladed csv file of excel sheet
